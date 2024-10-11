@@ -11,7 +11,11 @@ My journey in computer science has sparked a deep interest in cybersecurity, and
 Looking ahead, I plan to keep expanding my knowledge of programming languages, while creating more scripts and improving my technical documentation skills.
 
 Projects: 
+
 Virtualization Installation Documentation
+
 Scripts for Joke
+
 Script for Story
+
 Scripts for Grade Calculation
