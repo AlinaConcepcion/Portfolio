@@ -1,5 +1,6 @@
 Hello, I'm Alina
-https://www.linkedin.com/in/alinaconcepcion><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/AlinaConcepcion"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 
 I recently graduated with a degree in Information Technology, and I’ll soon be earning my bachelor’s in Cybersecurity and Information Assurance. I’m really into technology, especially learning about the latest trends and advancements in the field.
