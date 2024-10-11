@@ -15,4 +15,4 @@ Script for Joke: Interactive code I wrote that displays a joke.
 
 Script for Story: Interactive code I wrote at tells a story based on user's choices.
 
-Script for Grade Calculation: Interactve code I wrote that allows user iput for grade calculation.
+Script for Grade Calculation: Interactve code I wrote that allows user input for grade calculations.
