@@ -1,0 +1,57 @@
+#!/bin/bash
+
+# This script walks the user through an interactive story where the user can guide the character to make choices on different scenarios
+# This script can be executed by running ./choices.sh or bash choices.sh
+
+echo "A girl was walking in the forest alone. As she's walking, she meets a talking dog. The dog asks the girl if she can walk him home."
+
+echo "What should the girl do?"
+
+echo "A) Walk the dog home         B) Decline and continue walking alone"
+
+# Reads the first choice from the user
+read user_choice
+
+if [ $user_choice != "A" ] && [ $user_choice != "B" ]; then
+   echo "Invalid choice. Exiting program!"
+   exit 1
+fi
+
+# Using two different branches, allow user to make choices for the girl based on the options provided
+if [[ $user_choice == "A" ]]; then
+  echo "The girl and the dog walk together singing. The dog then tells her all about his life. The dog really gets along with the girl, so he asks if she can adopt him and become his dog mom."
+  echo "What should the girl do?"
+  echo "A) Bring the dog home and introduce him to her family         B) Say she can't adopt him but take him to a shelter to find his forever home"
+  
+  read user_choice
+  
+  if [[ $user_choice == "A" ]]; then
+     echo "The girl brings the dog home with her, and her family liked him, so they adopt him and the dog is happy!"
+  elif [[ $user_choice == "B"  ]]; then
+     echo "The girl brings the dog to the shelter, where her best friend's family is looking for a new dog, so they adopt him, and the dog is happy since he will be able to play with the girl and her bestfriend"
+  else
+     echo "Invalid choice. Exiting program!"
+     exit 1
+  fi
+
+elif [[ $user_choice == "B" ]]; then
+   echo "The dog runs away crying and she continues walking alone."
+   echo "As the girl continues walking, she meets a lost kitty that needs help finding her home."
+
+   echo "What should the girl do?"
+   echo "A) Walk the kitty home         B) Decline and continue walking alone since she's almost home"
+   
+   read user_choice
+   
+   if [[ $user_choice == "A" ]]; then
+      echo "The girl walks the kitty home, where she meets the kitty's family, and makes new friends!"
+   elif [[ $user_choice == "B" ]]; then
+      echo "The girl declines and continues walking home. On her way there she finds her grandma, and they walk home together."
+   else
+      echo "Invalid choice. Exiting program!"
+      exit 1
+   fi
+fi
+
+echo "THE END"
+
