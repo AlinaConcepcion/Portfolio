@@ -8,6 +8,13 @@ I love picking up new languages—whether they’re spoken or programming. I’v
 My journey in computer science has sparked a deep interest in cybersecurity, and I’m excited to transition into this field. I’m particularly focused on becoming a Cybersecurity Analyst.
 Looking ahead, I plan to keep expanding my knowledge of programming languages, while creating more scripts and improving my technical documentation skills.
 
+Education:
+
+Northern Essex Community College- General Studies- 2022
+
+Northern Essex Community College- Information Technology- 2024
+
+
 Projects: 
 
 Virtualization Installation Documentation: Documentation for the installations of VirtualBox, Ubuntu, CentOS, SmarTTY, and filesharing.
