@@ -1,0 +1,16 @@
+#!/bin/bash
+
+read -p "Knock knock! " user_answer
+
+if [[ $user_answer == "Who's there?" ]];
+then
+   read -p "Boo " user_answer
+   if [[ $user_answer == "Boo who?" ]];
+   then
+      echo "Don't cry, it's just a joke"
+   else
+      echo "Wrong input!"
+   fi
+else
+   echo "Wrong input!"
+fi
