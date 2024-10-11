@@ -1,0 +1,24 @@
+# This program will take a score as input for the user and validate that it’s a number
+# then print the corresponding grade for that score
+
+# Using try and except to check that input is numerical
+sc= input("Enter score:")
+try:
+    score= float(sc)
+except:
+    print ("Bad score")
+    quit()
+
+# If score is not between 0.0 and 1.0 print bad score, otherwise follow the table to print the grade accordingly
+if score > 1.0:
+    print(“Bad score”)
+elif score >=0.9 and score <= 1.0 :
+    print("A")
+elif score >=0.8 and score <0.9:
+     print("B")
+elif score >=0.7 and score <0.8:
+    print("C")
+elif score >=0.6 and score <0.7 :
+    print("D")
+elif score <0.6:
+    print ("F")
