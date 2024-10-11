@@ -2,7 +2,7 @@ Hello, I'm Alina
 <a href="https://linkedin.com/in/AlinaConcepcion"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
  
-
+ 
 I recently graduated with a degree in Information Technology, and I’ll soon be earning my bachelor’s in Cybersecurity and Information Assurance. I’m really into technology, especially learning about the latest trends and advancements in the field.
 
 I love picking up new languages—whether they’re spoken or programming. I’ve worked with Python and Java, and I’m comfortable with operating systems like Linux, Windows, and macOS. Technology excites me, and I’m always eager to learn more and stay up-to-date with what’s happening in the tech world.
