@@ -9,6 +9,7 @@ My journey in computer science has sparked a deep interest in cybersecurity, and
 Looking ahead, I plan to keep expanding my knowledge of programming languages, while creating more scripts and improving my technical documentation skills.
 
 Projects: 
+
 Virtualization Installation Documentation: Documentation for the installations of VirtualBox, Ubuntu, CentOS, SmarTTY, and filesharing.
 
 Script for Joke: Interactive code I wrote that displays a joke.
