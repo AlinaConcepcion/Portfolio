@@ -10,6 +10,9 @@ Looking ahead, I plan to keep expanding my knowledge of programming languages, w
 
 Projects: 
 Virtualization Installation Documentation: Documentation for the installations of VirtualBox, Ubuntu, CentOS, SmarTTY, and filesharing.
-Script for Joke: Interactive code I wrote that displays a joke
-Script for Story: Interactive code I wrote at tells a story based on user's choices
+
+Script for Joke: Interactive code I wrote that displays a joke.
+
+Script for Story: Interactive code I wrote at tells a story based on user's choices.
+
 Script for Grade Calculation: Interactve code I wrote that allows user iput for grade calculation.
