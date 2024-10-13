@@ -14,6 +14,19 @@ Northern Essex Community College- General Studies- 2022
 
 Northern Essex Community College- Information Technology- 2024
 
+
+Certifications:
+
+Foundations of CyberSecurity-  Coursera.| Issued: September 2023
+
+Play it Safe: Manage Security Risks-  Coursera.|Issued: October 2023
+
+Connect and Protect: Networks and Networking Security -  Coursera.|Issued: October 2023
+
+Tools of the Trade: Linux and SQL - Coursera. |Issued: November 2023
+
+Assets, threats, and vulnerabilities - Coursera. | Issued: December 2023
+
 Projects: 
 
 Virtualization Installation Documentation: Documentation for the installations of VirtualBox, Ubuntu, CentOS, SmarTTY, and filesharing.
