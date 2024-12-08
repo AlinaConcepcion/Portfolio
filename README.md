@@ -27,9 +27,27 @@ Tools of the Trade: Linux and SQL - Coursera. |Issued: November 2023
 
 Assets, threats, and vulnerabilities - Coursera. | Issued: December 2023
 
+Splunk Certifications:
+Search Optimization 
+Data Models
+Creating Field Extractions
+Introduction to Dashboards
+Intro to Knowledge Objects 
+Leveraging Lookups and Subsearches 
+Result Modification 
+Comparing Values
+Working with Time 
+Using Fields 
+Visualizations 
+Scheduling Reports & Alerts
+Intro to Splunk 
+
 Projects: 
 
 Virtualization Installation Documentation: Documentation for the installations of VirtualBox, Ubuntu, CentOS, SmarTTY, and filesharing.
+Server Set up part 2 Documentation: Repositories, t-mux, lolcat, cowsay, Fail2Ban, updating servers.
+
+Container Documentation: Installing containers, installing docker, kubernetes and minikube and working with yaml files.
 
 Script for Joke: Interactive code I wrote that displays a joke.
 
