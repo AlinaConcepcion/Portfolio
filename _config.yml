@@ -1,8 +1,8 @@
 title: Alina Concepcion
 #logo
-#description: Hi I'm alina
+description: Hi, I'm alina
 #show_downloads: true
 #theme: jekyll-theme-minimal
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/merlot@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
