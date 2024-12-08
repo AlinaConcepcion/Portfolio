@@ -27,31 +27,32 @@ Tools of the Trade: Linux and SQL - Coursera. |Issued: November 2023
 
 Assets, threats, and vulnerabilities - Coursera. | Issued: December 2023
 
-Search Optimization - Splunk 
+Search Optimization - Splunk | Issued: November 2024
 
-Data Models - Splunk
+Data Models - Splunk | Issued: November 2024
 
-Creating Field Extractions - Splunk
+Creating Field Extractions - Splunk | Issued: November 2024
 
-Introduction to Dashboards -Splunk
+Introduction to Dashboards -Splunk | Issued: November 2024
 
-Intro to Knowledge Objects -Splunk
+Intro to Knowledge Objects -Splunk | Issued: November 2024
 
-Leveraging Lookups and Subsearches -Splunk
+Leveraging Lookups and Subsearches -Splunk | Issued: November 2024
 
-Result Modification -Splunk
+Result Modification -Splunk | Issued: November 2024
 
-Comparing Values -Splunk
+Comparing Values -Splunk | Issued: November 2024
 
-Working with Time -Splunk
+Working with Time -Splunk | Issued: November 2024
 
-Using Fields -Splunk
+Using Fields -Splunk | Issued: November 2024
 
-Visualizations -Splunk
+Visualizations -Splunk | Issued: November 2024
 
-Scheduling Reports & Alerts -Splunk
+Scheduling Reports & Alerts -Splunk | Issued: November 2024
 
-Intro to Splunk -Splunk
+Intro to Splunk -Splunk | Issued: November 2024
+
 
 Projects: 
 
