@@ -27,20 +27,31 @@ Tools of the Trade: Linux and SQL - Coursera. |Issued: November 2023
 
 Assets, threats, and vulnerabilities - Coursera. | Issued: December 2023
 
-Splunk Certifications:
-Search Optimization 
-Data Models
-Creating Field Extractions
-Introduction to Dashboards
-Intro to Knowledge Objects 
-Leveraging Lookups and Subsearches 
-Result Modification 
-Comparing Values
-Working with Time 
-Using Fields 
-Visualizations 
-Scheduling Reports & Alerts
-Intro to Splunk 
+Search Optimization - Splunk 
+
+Data Models - Splunk
+
+Creating Field Extractions - Splunk
+
+Introduction to Dashboards -Splunk
+
+Intro to Knowledge Objects -Splunk
+
+Leveraging Lookups and Subsearches -Splunk
+
+Result Modification -Splunk
+
+Comparing Values -Splunk
+
+Working with Time -Splunk
+
+Using Fields -Splunk
+
+Visualizations -Splunk
+
+Scheduling Reports & Alerts -Splunk
+
+Intro to Splunk -Splunk
 
 Projects: 
 
